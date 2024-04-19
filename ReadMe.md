@@ -13,7 +13,7 @@ Furthermore, you can explore the best and worst user comments based on the senti
 
 ## How to run
 
-1. "Make sure you have the required libraries installed. You can install them by running:
+1. Make sure you have the required libraries installed. You can install them by running:
 
     ```bash
     pip install -r requirements.txt
